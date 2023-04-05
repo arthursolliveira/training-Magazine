@@ -1,0 +1,19 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "Projeto Manipiulando elementos da web com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels"
+  ],
+  "author": "Arthur Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
